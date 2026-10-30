@@ -1,0 +1,18 @@
+{
+  "token_name": "Changpeng Troll Officer",
+  "ticker": "CTO",
+  "network": "Ethereum Mainnet",
+  "phase": 3,
+  "reference_website": "https://www.ctorobin.lol/",
+  "story_section": "The original reference site's X/Source Signal section is replaced with one approved newspaper and four separate clipped photographs.",
+  "approved_originals": [
+    {"role": "brand_logo", "file": "assets/originals/cto-logo-approved-v2.png", "status": "FINAL"},
+    {"role": "single_newspaper", "file": "assets/originals/cto-newspaper-approved.png", "status": "FINAL"},
+    {"role": "story_photo_01", "file": "assets/originals/cto-clipped-photo-01-hacker-laptop.png", "status": "FINAL"},
+    {"role": "story_photo_02", "file": "assets/originals/cto-clipped-photo-02-open-vault.png", "status": "FINAL"},
+    {"role": "story_photo_03", "file": "assets/originals/cto-clipped-photo-03-yi-he-troll.png", "status": "FINAL"},
+    {"role": "story_photo_04", "file": "assets/originals/cto-clipped-photo-04-changpeng-troll.png", "status": "FINAL"}
+  ],
+  "additional_website_assets": ["assets/favicon.png", "assets/cto-logo.webp", "assets/cto-newspaper.webp", "assets/story-laptop.webp", "assets/story-vault.webp", "assets/story-yihe.webp", "assets/story-changpeng.webp"],
+  "external_footage_or_charts": "none"
+}
